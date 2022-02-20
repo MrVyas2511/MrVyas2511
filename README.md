@@ -15,7 +15,7 @@ I'm a full stack developer and competitiver programming enthusiast...
 ## Porjects 
 
 | Projects | #Repository  | #Link  |
-| :---:   | :-: | :-: |
+| :-:   | :-: | :-: |
 | Say-Hii | https://github.com/MrVyas2511/social-media-app | https://say-hii.netlify.app/ |
 | Sorting Visualizer | https://github.com/MrVyas2511/Sorting-Visualizer | https://sorting-visualizer-by-vyas.netlify.app/ |
 | Crypto-web-App | https://github.com/MrVyas2511/cryptoapp | https://crypto-webapp.netlify.app/ |
