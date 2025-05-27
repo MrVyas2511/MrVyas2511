@@ -12,7 +12,7 @@ I'm a full stack developer and competitiver programming enthusiast...
 - MERN Stack [ MongoDB | ReactJs | Express | NodeJs]
 - Database : MongoDB,Mysql
 
-## Porjects 
+## Projects 
 
 | Projects | Repository  | Link  |
 | :-:   | :-: | :-: |
